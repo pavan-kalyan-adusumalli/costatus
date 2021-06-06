@@ -1,3 +1,4 @@
+alert("Use Landscape mode for better experience");
 const request = new XMLHttpRequest();
 request.open('GET', 'https://api.covid19api.com/summary');
 request.send();
